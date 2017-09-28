@@ -7,5 +7,5 @@ author:     "William.guo"
 header-img: "img/Santander/Santander office 4 red.jpg"
 comments: true
 ---
-{% include image.html url="/img/aliyun/Resume.pdf" description="Competition banner" %}
+<a href="/img/aliyun/Resume.pdf" onClick="ga('send', 'event', 'Menu', 'Download', 'Resume.pdf');">My Resume</a>
 

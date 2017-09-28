@@ -7,5 +7,5 @@ author:     "William.guo"
 header-img: "img/Santander/Santander office 4 red.jpg"
 comments: true
 ---
-<a href="/img/aliyun/Resume.pdf" onClick="ga('send', 'event', 'Menu', 'Download', 'Resume.pdf');">My Resume</a>
+<a href="/Resume.pdf" onClick="ga('send', 'event', 'Menu', 'Download', 'Resume.pdf');">My Resume</a>
 

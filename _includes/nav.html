@@ -22,8 +22,8 @@
 				<li>
                     <a href="{{ site.baseurl }}/Resume.pdf" onClick="ga('send', 'event', 'Menu', 'Download', 'mastattomvandewiele.pdf');">My Resume</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}
 				-->
+                {% for page in site.pages %}{% if page.title %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>

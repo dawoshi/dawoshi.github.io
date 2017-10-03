@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TianChi competition"
+title: "TianChi Competition"
 date:       2017-09-20 00:00:00
 author:     "William.guo"
 header-img: "img/Facebook/FBCheckinDark.jpg"

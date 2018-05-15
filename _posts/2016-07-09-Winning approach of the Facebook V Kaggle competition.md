@@ -8,7 +8,6 @@ comments: true
 ---
 
 {% include image.html url="/img/aliyun/Koubei.png" description="Competition banner" %}
-{% include image.html url="/img/aliyun/TianChiAI.png" description="Competition banner" %}
-
-
+{% include image.html url="/img/aliyun/TianChiAIOne.png" description="Competition banner" %}
+{% include image.html url="/img/aliyun/TianChiAITwo.png" description="Competition banner" %}
 
